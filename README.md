@@ -1,5 +1,5 @@
 # Growers' Nation Site
-hello
+hello.
 
 This project provides the RESTful API to serve web clients with OpenID authentication.
 
